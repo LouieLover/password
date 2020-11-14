@@ -24,7 +24,7 @@ Open the link and click on generate a password
 
 ## Contribute
 
-Doc S(https://github.com/LouieLover/burger) 
+Doc S(https://louielover.github.io/password/generator.html) 
 
 ## Credits
 Doc S
